@@ -12,7 +12,7 @@ This year we will also host a [Tutorial at SC25](https://github.com/JuliaParalle
 ## Community
 
 * The Julia Language, and the Julia for HPC communities are incredibly welcoming, for more information, please check out the [Julia Community Pages](https://julialang.org/community/), the [Julia Discourse](https://discourse.julialang.org/), and the [Julia Parallel](https://juliaparallel.org/) community.
-The Julia for HPC community meets monthy on Zoom.
+The Julia for HPC community meets online fortnightly, see the [calendar](https://julialang.org/community/#events) for more information.
 
 * This is an excellent intro-level course on using Julia in Scientific Computing: [Solving PDEs in parallel on GPUs with Julia](https://pde-on-gpu.vaw.ethz.ch/)
 
