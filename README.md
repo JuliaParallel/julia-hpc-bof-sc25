@@ -18,15 +18,15 @@ The Julia for HPC community meets online fortnightly, see the [calendar](https:/
 
 ## Agenda
 
-| Time                | Speakers                     | Title                            |
-|---------------------|------------------------------|----------------------------------|
-| 12:15pm - 12:20pm   | Mosè Giordano (UCL)          |  Introduction       |
-| 12:20pm - 12:25pm   | Patrick Diehl (LANL)         | |
-| 12:25pm - 12:30pm   | Philip Fackler (ORNL)        | |
-| 12:30pm - 12:35pm   | Jim Garrison (IBM)           | |
-| 12:35pm - 12:40pm   | Roman Lee (NERSC)            | |
-| 12:40pm - 12:45pm   | David Krasowska (NU)         | |
-| 12:45pm - 1:15pm    | Everyone                     | Discussion |
+| Time              | Speakers              | Title                                                                                             |
+|-------------------|-----------------------|---------------------------------------------------------------------------------------------------|
+| 12:15pm - 12:20pm | Mosè Giordano (UCL)   | [Introduction](./giordano-intro.pdf)                                                              |
+| 12:20pm - 12:25pm | Patrick Diehl (LANL)  |                                                                                                   |
+| 12:25pm - 12:30pm | Philip Fackler (ORNL) | [JACC - A Julia Package for HPC Meta-Programming and Performance Portability](./fackler-jacc.pdf) |
+| 12:30pm - 12:35pm | Jim Garrison (IBM)    |                                                                                                   |
+| 12:35pm - 12:40pm | Roman Lee (NERSC)     |                                                                                                   |
+| 12:40pm - 12:45pm | David Krasowska (NU)  | [cuNumeric.jl: Automating Distributed Numerical Computing](krasowska-cunumeric.pdf)               |
+| 12:45pm - 1:15pm  | Everyone              | Discussion                                                                                        |
 
 Discussions moderated by Mosè Giordano (UCL), and William F Godoy (ORNL).
 
@@ -37,6 +37,7 @@ Discussions moderated by Mosè Giordano (UCL), and William F Godoy (ORNL).
 * Jim Garrison (IBM)
 * Roman Lee (NERSC, Berkeley National Laboratory)
 * David Krasowska (Northwestern University)
+* Raye Kimmerer (NERSC / Princeton)
 
 #### Moderator
 
