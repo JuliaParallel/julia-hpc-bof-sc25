@@ -18,15 +18,15 @@ The Julia for HPC community meets online fortnightly, see the [calendar](https:/
 
 ## Agenda
 
-| Time              | Speakers              | Title                                                                                             |
-|-------------------|-----------------------|---------------------------------------------------------------------------------------------------|
-| 12:15pm - 12:20pm | Mosè Giordano (UCL)   | [Introduction](./giordano-intro.pdf)                                                              |
-| 12:20pm - 12:25pm | Patrick Diehl (LANL)  |                                                                                                   |
-| 12:25pm - 12:30pm | Philip Fackler (ORNL) | [JACC - A Julia Package for HPC Meta-Programming and Performance Portability](./fackler-jacc.pdf) |
-| 12:30pm - 12:35pm | Jim Garrison (IBM)    | [Qiskit.jl - A wrapper for the Qiskit C API](./garrison-qiskitjl.pdf)                             |
-| 12:35pm - 12:40pm | Roman Lee (NERSC)     | [Julia for HPC](./lee-julia-hpc.pdf)                                                              |
-| 12:40pm - 12:45pm | David Krasowska (NU)  | [cuNumeric.jl: Automating Distributed Numerical Computing](krasowska-cunumeric.pdf)               |
-| 12:45pm - 1:15pm  | Everyone              | Discussion                                                                                        |
+| Time              | Speakers              | Title                                                                                                   |
+|-------------------|-----------------------|---------------------------------------------------------------------------------------------------------|
+| 12:15pm - 12:20pm | Mosè Giordano (UCL)   | [Introduction](./giordano-intro.pdf)                                                                    |
+| 12:20pm - 12:25pm | Patrick Diehl (LANL)  | [What Can Julia Do for Quantum Simulations (and What Can't It)?](./diehl-julia-quantum-simulations.pdf) |
+| 12:25pm - 12:30pm | Philip Fackler (ORNL) | [JACC - A Julia Package for HPC Meta-Programming and Performance Portability](./fackler-jacc.pdf)       |
+| 12:30pm - 12:35pm | Jim Garrison (IBM)    | [Qiskit.jl - A wrapper for the Qiskit C API](./garrison-qiskitjl.pdf)                                   |
+| 12:35pm - 12:40pm | Roman Lee (NERSC)     | [Julia for HPC](./lee-julia-hpc.pdf)                                                                    |
+| 12:40pm - 12:45pm | David Krasowska (NU)  | [cuNumeric.jl: Automating Distributed Numerical Computing](krasowska-cunumeric.pdf)                     |
+| 12:45pm - 1:15pm  | Everyone              | Discussion                                                                                              |
 
 Discussions moderated by Mosè Giordano (UCL), and William F Godoy (ORNL).
 
